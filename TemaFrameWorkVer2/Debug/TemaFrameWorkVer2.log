@@ -1,0 +1,61 @@
+﻿빌드 시작: 2024-03-04 오후 3:40:37
+     1>2 노드의 "C:\Users\kdy\Desktop\개인자료\팀 과제 1차\최종본\팀과제 1차(전대인,김동영)\TemaFrameWorkVer2\TemaFrameWorkVer2.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\TemaFrameWorkVer2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\TemaFrameWorkVer2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Line.cpp MainGame.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         MainGame.cpp
+         Line.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kdy\Desktop\개인자료\팀 과제 1차\최종본\팀과제 1차(전대인,김동영)\Debug\TemaFrameWorkVer2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kdy\Desktop\개인자료\팀 과제 1차\최종본\팀과제 1차(전대인,김동영)\Debug\TemaFrameWorkVer2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kdy\Desktop\개인자료\팀 과제 1차\최종본\팀과제 1차(전대인,김동영)\Debug\TemaFrameWorkVer2.lib" /MACHINE:X86 Debug\TemaFrameWorkVer2.res
+         Debug\Boom.obj
+         Debug\BoomUI.obj
+         Debug\Border.obj
+         Debug\Boss1.obj
+         Debug\Boss2.obj
+         Debug\Bullet.obj
+         Debug\BulletTypeUI.obj
+         Debug\CollisionMgr.obj
+         Debug\dummyMonster.obj
+         Debug\GameOver.obj
+         Debug\GameOverUI.obj
+         Debug\HP.obj
+         Debug\Item.obj
+         Debug\Line.obj
+         Debug\MainGame.obj
+         Debug\MiniFlight.obj
+         Debug\Monster.obj
+         Debug\Monster2.obj
+         Debug\Monster3.obj
+         Debug\Monster4.obj
+         Debug\Mouse.obj
+         Debug\NormalBullet.obj
+         Debug\NormalItem.obj
+         Debug\Obj.obj
+         Debug\ObjMgr.obj
+         Debug\Player.obj
+         Debug\SBullet.obj
+         Debug\SBulletItem.obj
+         Debug\Scene.obj
+         Debug\SceneMgr.obj
+         Debug\ScoreUI.obj
+         Debug\Shield.obj
+         Debug\ShotBullet.obj
+         Debug\Stage1.obj
+         Debug\Stage2.obj
+         Debug\StartScene.obj
+         Debug\stdafx.obj
+         Debug\TemaFrameWorkVer2.obj
+         Debug\TrackBullet.obj
+         Debug\TrackItem.obj
+         Debug\UI.obj
+         Debug\UIMgr.obj
+         Debug\WallMonster.obj
+         TemaFrameWorkVer2.vcxproj -> C:\Users\kdy\Desktop\개인자료\팀 과제 1차\최종본\팀과제 1차(전대인,김동영)\Debug\TemaFrameWorkVer2.exe
+     1>"C:\Users\kdy\Desktop\개인자료\팀 과제 1차\최종본\팀과제 1차(전대인,김동영)\TemaFrameWorkVer2\TemaFrameWorkVer2.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.93
